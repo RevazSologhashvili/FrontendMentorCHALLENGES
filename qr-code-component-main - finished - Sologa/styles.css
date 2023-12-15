@@ -29,13 +29,19 @@ p{
     background-color: hsl(0, 0%, 100%);
     padding: 16px;
     border-radius: 16px;
-    gap: 25px;
+    gap: 20px;
 }
 
 .container *{
     max-width: 300px;
     background-color: hsl(0, 0%, 100%);
 }
+
+.container p{
+    padding-bottom: 20px;
+    max-width: 250px;
+}
+
 
 
 .image-container img {
