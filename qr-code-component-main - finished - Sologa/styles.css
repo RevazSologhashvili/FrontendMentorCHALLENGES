@@ -29,11 +29,11 @@ p{
     background-color: hsl(0, 0%, 100%);
     padding: 16px;
     border-radius: 16px;
-    gap: 20px;
+    gap: 25px;
 }
 
 .container *{
-    max-width: 350px;
+    max-width: 300px;
     background-color: hsl(0, 0%, 100%);
 }
 
