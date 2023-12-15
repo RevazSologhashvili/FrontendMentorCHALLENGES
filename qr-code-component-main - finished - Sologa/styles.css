@@ -33,7 +33,7 @@ p{
 }
 
 .container *{
-    max-width: 300px;
+    max-width: 350px;
     background-color: hsl(0, 0%, 100%);
 }
 
